@@ -1,2 +1,2 @@
-# HomePlus_RP2P
+# HomePlus RP2P
 Programmable Home Button (Software Mod)
