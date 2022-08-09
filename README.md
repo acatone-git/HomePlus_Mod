@@ -49,4 +49,19 @@ This sofware mod changes the function of the HOME button to an modifier, combine
 - Read the instructions / documentation on my development repo
 - Share your creations with the community! 
 
-# 
+# Credits & Thanks
+
+https://www.goretroid.com/ (Retroid Pocket 2 Plus)
+
+https://llamalab.com/automate/ (Automate)
+
+https://www.youtube.com/user/HorreyForthenewstep (Factory Reset Files & Boot Sound Off Script)
+
+https://llamalab.com/automate/community/flows/40412 (Shell Scripting Example)
+
+https://androiderrors.com/simulating-combination-of-key-presses-from-adb-terminal/ (Sendkey Sintax & Finding Valid Inputs)
+
+https://unix.stackexchange.com/a/325350 (Find Permission Used on System Files)
+
+https://stackoverflow.com/a/17263093 (Long Touch Sintax)
+
