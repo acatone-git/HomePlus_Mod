@@ -4,12 +4,12 @@ Changes the function of the HOME button to an modifier, combined with [Automate]
 
 # Key Combinations (Retro Controller Style)
 
-HOME + A  = Back Button (Access Quick Settings in Dolphin / AetherSX2) 
-HOME + Y  = Application Switch / List
-HOME + X  = Brightness Up
-HOME + B  = Brightness Down
-HOME + L1 = L3
-HOME + R1 = R3
+- HOME + A  = Back Button (Access Quick Settings in Dolphin / AetherSX2) 
+- HOME + Y  = Application Switch / List
+- HOME + X  = Brightness Up
+- HOME + B  = Brightness Down
+- HOME + L1 = L3
+- HOME + R1 = R3
 
 # Install Guide
 
