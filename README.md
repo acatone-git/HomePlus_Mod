@@ -11,7 +11,7 @@ Changes the function of the HOME button to an modifier, combined with [Automate]
 - HOME + L1 = L3
 - HOME + R1 = R3
 
-# Install Guide
+# Installation Guide
 
 ## Step 1
 
