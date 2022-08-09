@@ -31,7 +31,7 @@ This sofware mod changes the function of the HOME button to an modifier, combine
 - Accept their TOS > Tap on the menu icon (Three lines icon on Top Left)> Settings
 - Scroll down to the "Backup" Section & Select "Restore Backup"
 - Select "HomePlus_Scripts.bak"
-- Return to the main menu, there should be **six** scripts there (HomePlus_L1_L3 / R1_R3 / X_BU / Y_AS / B_BD / A_OM)
+- Return to the main menu, there should be **six** scripts there (L1_L3 / R1_R3 / X_BU / Y_AS / B_BD / A_OM)
 
 ## Step 4
 
