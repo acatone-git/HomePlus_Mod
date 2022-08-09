@@ -20,7 +20,7 @@ Changes the function of the HOME button to an modifier, combined with [Automate]
 
 ## Step 2
 
-- On the RP2+ go to Settings > Handheld Settings > Virtual Mouse
+- On the RP2+, go to Settings > Handheld Settings > Virtual Mouse
 - Enable it & change the shortcut keys to START / SELECT (or both) & then disable it again
 - Now Scroll down to "Advanced" & Select "Run Script as Root"
 - Select "HomePlus_Install.sh" & tap on "Run"
