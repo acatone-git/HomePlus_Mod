@@ -67,3 +67,4 @@ https://unix.stackexchange.com/a/325350 (Find Permission Used on System Files)
 
 https://stackoverflow.com/a/17263093 (Long Touch Sintax)
 
+https://github.com/dchen327/ruzzle-solver/blob/master/ruzzle_swipe.sh (Chain Sendkey Commands)
