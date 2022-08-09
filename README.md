@@ -37,7 +37,8 @@ This sofware mod changes the function of the HOME button to an modifier, combine
 
 - Select any script & tap on the missing privileges
 - Allow / Enable all the requested privileges / services (3 in total)
-- Start all the scripts individually & disable logging 
+- Start all the scripts individually & disable logging
+
   (Tap the ticket icon next to the share button & Uncheck Logging)
 
 ## Step 5
