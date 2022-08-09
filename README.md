@@ -15,7 +15,7 @@ Changes the function of the HOME button to an modifier, combined with [Automate]
 
 ## Step 1
 
-- Download & Copy "HomePlus_Install.sh", "HomePlus_Scripts.bak" & "HomePlus.kl" to the Internal Storage of the RP2+ 
+- Download & Copy "HomePlus_Install.sh", "HomePlus_Scripts.bak" & "HomePlus.kl" to the root of the Internal Storage of the RP2+ 
 - **[NOT THE SD CARD]**
 
 ## Step 2
