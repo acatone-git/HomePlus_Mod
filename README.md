@@ -2,7 +2,8 @@
 
 This sofware mod changes the function of the HOME button to an modifier, combined with [Automate](https://llamalab.com/automate/) & Shell Scripting, it unlocks the full potential of this great portable device.
 
-# Default HomePlus Key Combinations (Retro Controller Mode)
+# Default HomePlus Key Combinations
+##(Retro Controller Mode)
 
 - HOME + A  = Back Button (Access Quick Settings in Dolphin / AetherSX2) 
 - HOME + Y  = Application Switch / List
@@ -10,6 +11,8 @@ This sofware mod changes the function of the HOME button to an modifier, combine
 - HOME + B  = Brightness Down
 - HOME + L1 = L3
 - HOME + R1 = R3
+
+
 
 # Installation Guide
 
