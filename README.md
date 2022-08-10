@@ -50,7 +50,7 @@ This sofware mod changes the function of the HOME button to an modifier, combine
 
 # Create / Change Key Combinations
 
-- Read the instructions / documentation on my development repo
+- Read / Use the instructions, documentation & examples in the development repo
 - Share your creations with the community! 
 
 # Credits & Thanks
