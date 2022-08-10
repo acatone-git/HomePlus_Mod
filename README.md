@@ -2,7 +2,8 @@
 
 This sofware mod changes the function of the HOME button to an modifier, combined with [Automate](https://llamalab.com/automate/) & Shell Scripting, it unlocks the full potential of this great portable device.
 
-# Default HomePlus Key Combinations (Retro Controller Style)
+# Default HomePlus Key Combinations 
+(Retro Controller Style)
 
 - HOME + A  = Back Button (Access Quick Settings in Dolphin / AetherSX2) 
 - HOME + Y  = Application Switch / List
@@ -68,3 +69,5 @@ https://unix.stackexchange.com/a/325350 (Find Permission Used on System Files)
 https://stackoverflow.com/a/17263093 (Long Touch Sintax)
 
 https://github.com/dchen327/ruzzle-solver/blob/master/ruzzle_swipe.sh (Chain Sendkey Commands)
+
+https://www.cnblogs.com/pengdonglin137/articles/5408256.html (Dumpsys Input Filtering) 
