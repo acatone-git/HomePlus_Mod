@@ -39,7 +39,7 @@ This tiny software mod changes the function of the HOME button to an obscure, bu
 
 ## Step 5
 
-- Have Fun!
+- Tap on "Start All" & Have Fun!
 
 # Default HomePlus Controls
 ## (Retro / Xbox)
