@@ -5,13 +5,14 @@ This sofware mod changes the function of the HOME button to an modifier, combine
 # Default HomePlus Controls
 ## (Retro Controller Mode)
 
-- HOME + A  = Back Button (Access Quick Settings in Dolphin / AetherSX2) 
+- HOME + A  = Touchscreen Tap (Center)
 - HOME + Y  = Application Switch / List
 - HOME + X  = Brightness Up
 - HOME + B  = Brightness Down
 - HOME + L1 = L3
 - HOME + R1 = R3
-
+- HOME + L2 = Settings
+- HOME + R2 = Back (Access Quick menu on Dolphin & AetherSX2)
 
 
 # Installation Guide
@@ -34,15 +35,14 @@ This sofware mod changes the function of the HOME button to an modifier, combine
 - Accept their TOS > Tap on the menu icon (Three lines icon on Top Left)> Settings
 - Scroll down to the "Backup" Section & Select "Restore Backup"
 - Select "HomePlus_Scripts.bak"
-- Return to the main menu, there should be **six** scripts there (L1_L3 / R1_R3 / X_BU / Y_AS / B_BD / A_OM)
+- Return to the main menu, there should be **two** scripts there: "HomePlus - Retro" & "HomePlus - Xbox"
 
 ## Step 4
 
 - Select any script & tap on the missing privileges
 - Allow / Enable all the requested privileges / services (3 in total)
-- Start all the scripts individually & disable logging
-
-  (Tap the ticket icon next to the share button & Uncheck Logging)
+- Start the script matching your layout in Settings > Handheld Settings > Controller Style
+- Tap on the ticket icon (next to the share button) & disable logging 
 
 ## Step 5
 
