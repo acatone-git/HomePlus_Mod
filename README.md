@@ -12,7 +12,7 @@ This sofware mod changes the function of the HOME button to an modifier, combine
 - HOME + L1 = L3
 - HOME + R1 = R3
 - HOME + L2 = Settings
-- HOME + R2 = Back (Access Quick menu on Dolphin & AetherSX2)
+- HOME + R2 = Back (Access menu on Dolphin & AetherSX2)
 
 
 # Installation Guide
