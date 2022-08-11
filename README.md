@@ -4,7 +4,7 @@ This tiny software mod changes the function of the HOME button to an modifier, c
 
 ## Requirements
 
-- HomePlus (HomePlus_Install.sh , HomePlus_Scripts.bak & HomePlus.kl) 
+- The HomePlus Files
 - A Good USB to USB-C Cable
 
 # Installation Guide
