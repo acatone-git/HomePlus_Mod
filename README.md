@@ -2,24 +2,16 @@
 
 This sofware mod changes the function of the HOME button to an modifier, combined with [Automate](https://llamalab.com/automate/) & Shell Scripting, it unlocks the full potential of this great portable device.
 
-# Default HomePlus Controls
-## (Retro Controller Mode)
+## Requirements
 
-- HOME + A  = Touchscreen Tap (Center)
-- HOME + Y  = Application Switch / List
-- HOME + X  = Brightness Up
-- HOME + B  = Brightness Down
-- HOME + L1 = L3
-- HOME + R1 = R3
-- HOME + L2 = Settings
-- HOME + R2 = Back (Access menu on Dolphin & AetherSX2)
-
+- HomePlus_Install.sh , HomePlus_Scripts.bak & HomePlus.kl
+- A Good USB to USB-C Cable
 
 # Installation Guide
 
 ## Step 1
 
-- Download & Copy "HomePlus_Install.sh", "HomePlus_Scripts.bak" & "HomePlus.kl" from the main release page to the Internal Storage of the RP2+ **[NOT THE SD CARD]**
+- Download & Copy "HomePlus_Install.sh", "HomePlus_Scripts.bak" & "HomePlus.kl" to the Internal Storage of the RP2+ **[NOT THE SD CARD]**
 
 ## Step 2
 
@@ -47,6 +39,19 @@ This sofware mod changes the function of the HOME button to an modifier, combine
 ## Step 5
 
 - Have Fun!
+
+# Default HomePlus Controls
+## (Retro / Xbox)
+
+- HOME + A  = Touchscreen Tap (Center)
+- HOME + Y  = Application Switch / List
+- HOME + X  = Brightness Up
+- HOME + B  = Brightness Down
+- HOME + L1 = L3
+- HOME + R1 = R3
+- HOME + L2 = Settings
+- HOME + R2 = Back (Access menu on Dolphin & AetherSX2)
+
 
 # Create / Change Key Combinations
 
