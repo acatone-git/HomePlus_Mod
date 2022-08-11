@@ -4,7 +4,7 @@ This tiny software mod changes the function of the HOME button to an obscure, bu
 
 ## Requirements
 
-- The HomePlus Files **[COMING SOON]**
+- The three HomePlus Files **[COMING SOON]**
 - A Good USB to USB-C Cable
 
 # Installation Guide
