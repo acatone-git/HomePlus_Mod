@@ -4,7 +4,7 @@ This tiny software mod changes the function of the HOME button to an modifier, c
 
 ## Requirements
 
-- The HomePlus Files **COMING SOON**
+- The HomePlus Files **[COMING SOON]**
 - A Good USB to USB-C Cable
 
 # Installation Guide
@@ -55,7 +55,7 @@ This tiny software mod changes the function of the HOME button to an modifier, c
 
 # Create / Change Key Combinations 
 
-- Read / Use the instructions, documentation & examples in the development repo **COMING SOON**
+- Read / Use the instructions, documentation & examples in the development repo **[COMING SOON]**
 - Share your creations with the community! 
 
 # Credits & Thanks
