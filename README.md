@@ -1,10 +1,10 @@
-# HomePlus Project - RP2+ Soft Mod
+# HomePlus - L3/R3, Hotkeys & More on the Retroid Pocket 2 Plus!
 
-This sofware mod changes the function of the HOME button to an modifier, combined with [Automate](https://llamalab.com/automate/) & Shell Scripting, it unlocks the full potential of this great portable device.
+This tiny software mod changes the function of the HOME button to an modifier, combined with [Automate](https://llamalab.com/automate/) & Shell Scripting, it unlocks the full potential of this great portable device.
 
 ## Requirements
 
-- HomePlus_Install.sh , HomePlus_Scripts.bak & HomePlus.kl
+- HomePlus (HomePlus_Install.sh , HomePlus_Scripts.bak & HomePlus.kl) 
 - A Good USB to USB-C Cable
 
 # Installation Guide
@@ -19,22 +19,22 @@ This sofware mod changes the function of the HOME button to an modifier, combine
 - Enable it & change the shortcut keys to START / SELECT (or both) & then disable it again
 - Now Scroll down to "Advanced" & Select "Run Script as Root"
 - Select "HomePlus_Install.sh" & tap on "Run"
-- The script will run & the console will restart
+- The HomePlus script will run & the console will restart
 
 ## Step 3
 
 - Download, Install & Run [Automate](https://llamalab.com/automate/)
-- Accept their TOS > Tap on the menu icon (Three lines icon on Top Left)> Settings
+- Now tap on the menu icon (Three lines icon in the top left) & then on "Settings"
 - Scroll down to the "Backup" Section & Select "Restore Backup"
 - Select "HomePlus_Scripts.bak"
 - Return to the main menu, there should be **two** scripts there: "HomePlus - Retro" & "HomePlus - Xbox"
 
 ## Step 4
 
-- Select any script & tap on the missing privileges
+- Select any of the two script & tap on the missing privileges
 - Allow / Enable all the requested privileges / services (3 in total)
-- Start the script matching your layout in Settings > Handheld Settings > Controller Style
 - Tap on the ticket icon (next to the share button) & disable logging 
+- Now Start the script matching your layout in Settings > Handheld Settings > Controller Style
 
 ## Step 5
 
@@ -52,8 +52,7 @@ This sofware mod changes the function of the HOME button to an modifier, combine
 - HOME + L2 = Settings
 - HOME + R2 = Back (Access menu on Dolphin & AetherSX2)
 
-
-# Create / Change Key Combinations
+# Create / Change Key Combinations 
 
 - Read / Use the instructions, documentation & examples in the development repo
 - Share your creations with the community! 
