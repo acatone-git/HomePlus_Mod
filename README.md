@@ -11,7 +11,8 @@ This tiny software mod changes the function of the HOME button to an modifier, c
 
 ## Step 1
 
-- Download & Copy "HomePlus_Install.sh", "HomePlus_Scripts.bak" & "HomePlus.kl" to the Internal Storage of the RP2+ **[NOT THE SD CARD]**
+- Download & Copy "HomePlus_Install.sh", "HomePlus_Scripts.bak" & "HomePlus.kl" to the Internal Storage of the RP2+ 
+- **[NOT THE SD CARD]**
 
 ## Step 2
 
