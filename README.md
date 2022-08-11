@@ -1,6 +1,6 @@
 # HomePlus - L3/R3, Hotkeys & More on the Retroid Pocket 2 Plus!
 
-This tiny software mod changes the function of the HOME button to an obscure but still usable modifier (Meta), combined with [Automate](https://llamalab.com/automate/) & Shell Scripting, it unlocks the full potential of this great portable device!
+This tiny software mod changes the function of the HOME button to an obscure, but still usable, modifier [Meta](https://en.wikipedia.org/wiki/Meta_key), combined with [Automate](https://llamalab.com/automate/) & Shell Scripting, it unlocks the full potential of this great portable device!
 
 ## Requirements
 
