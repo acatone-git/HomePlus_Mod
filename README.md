@@ -44,7 +44,7 @@ This tiny software mod changes the function of the HOME button to an obscure, bu
 # Default HomePlus Controls
 ## (Retro / Xbox)
 
-- HOME + A  = Touchscreen Tap (Center)
+- HOME + A  = Center Touchscreen Tap
 - HOME + Y  = Application Switch / List
 - HOME + X  = Brightness Up
 - HOME + B  = Brightness Down
