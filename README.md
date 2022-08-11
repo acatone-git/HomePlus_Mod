@@ -1,4 +1,5 @@
-# HomePlus - L3/R3, Hotkeys & More on the Retroid Pocket 2 Plus!
+# HomePlus 
+## L3/R3, Hotkeys & More on the Retroid Pocket 2 Plus!
 
 This tiny software mod changes the function of the HOME button to an modifier, combined with [Automate](https://llamalab.com/automate/) & Shell Scripting, it unlocks the full potential of this great portable device!
 
