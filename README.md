@@ -2,7 +2,7 @@
 
 This tiny software mod changes the function of the HOME button to an obscure, but still usable, modifier, combined with [Automate](https://llamalab.com/automate/) & some Shell Scripting, it unlocks the full potential of this great portable device!
 
-# Disclaimer
+## Disclaimer
 
 If you decide to try this mod, please be careful, follow the instructions closely & it should work right away.
 
