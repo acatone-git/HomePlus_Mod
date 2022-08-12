@@ -4,14 +4,14 @@ This tiny software mod changes the function of the HOME button to an obscure, bu
 
 ## Requirements
 
-- The three HomePlus Files **[COMING SOON]**
+- The Three HomePlus Files **[COMING SOON]**
 - A Good USB to USB-C Cable
 
 # Installation Guide
 
 ## Step 1
 
-- Download "HomePlus_Install.sh", "HomePlus_Scripts.bak" & "HomePlus.kl" from the release page **[COMING SOON]**
+- Download "HomePlus_Install.sh", "HomePlus_Scripts.bak" & "HomePlus_Layout.kl" from the release page **[COMING SOON]**
 - Copy the three files mentioned above to the Internal Storage of the RP2+ **[NOT THE SD CARD]**
 
 ## Step 2
@@ -33,7 +33,7 @@ This tiny software mod changes the function of the HOME button to an obscure, bu
 ## Step 4
 
 - Select any of the two script & tap on the missing privileges
-- Allow / Enable all the requested privileges / services (3 in total)
+- Allow / Enable all the requested privileges / services (4 in total)
 - Tap on the ticket icon (next to the share button) & disable logging 
 - Now Start the script matching your layout in Settings > Handheld Settings > Controller Style
 
