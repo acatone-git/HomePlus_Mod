@@ -20,12 +20,12 @@ This tiny software mod changes the function of the HOME button to an obscure, bu
 - Enable it & change the shortcut keys to START / SELECT (or both) & then disable it again
 - Now Scroll down to "Advanced" & Select "Run Script as Root"
 - Select "HomePlus_Install.sh" & tap on "Run"
-- The HomePlus script will run & the console will restart
+- The HomePlus Installation script will run & the console will restart
 
 ## Step 3
 
-- Download, Install & Run [Automate](https://llamalab.com/automate/)
-- Now tap on the menu icon (Three lines icon in the top left) & then on "Settings"
+- After the restart, download, install & run [Automate](https://llamalab.com/automate/)
+- Tap on the menu icon (Three lines icon in the top left) & then on "Settings"
 - Scroll down to the "Backup" Section & Select "Restore Backup"
 - Select "HomePlus_Scripts.bak"
 - Return to the main menu, there should be **two** scripts there: "HomePlus - Retro" & "HomePlus - Xbox"
@@ -35,10 +35,10 @@ This tiny software mod changes the function of the HOME button to an obscure, bu
 - Select any of the two script & tap on the missing privileges
 - Allow / Enable all the requested privileges / services (4 in total)
 - Tap on the ticket icon (next to the share button) & disable logging 
-- Now Start the script matching your layout in Settings > Handheld Settings > Controller Style
 
 ## Step 5
 
+- Start the script matching the layout in Settings > Handheld Settings > Controller Style
 - Tap on "Start All" & Have Fun!
 
 # Default HomePlus Controls
