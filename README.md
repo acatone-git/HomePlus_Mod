@@ -19,27 +19,28 @@ This tiny software mod changes the function of the HOME button to an obscure, bu
 - On the RP2+, go to Settings > Handheld Settings > Virtual Mouse
 - Enable it & change the shortcut keys to START / SELECT (or both) & then disable it again
 - Now Scroll down to "Advanced" & Select "Run Script as Root"
-- Select "HomePlus_Install.sh" & tap on "Run"
-- The HomePlus Installation script will run & the console will restart
+- Select the file called "HomePlus_Install.sh" & tap on "Run"
+- The HomePlus Installation script will run & restart the console
 
 ## Step 3
 
 - After the restart, download, install & run [Automate](https://llamalab.com/automate/)
-- Tap on the menu icon (Three lines icon in the top left) & then on "Settings"
+- In automate, tap on the menu icon (Three lines icon in the top left) & then on "Settings"
 - Scroll down to the "Backup" Section & Select "Restore Backup"
-- Select "HomePlus_Scripts.bak"
+- Select the file named "HomePlus_Scripts.bak"
 - Return to the main menu, there should be **two** scripts there: "HomePlus - Retro" & "HomePlus - Xbox"
 
 ## Step 4
 
-- Select any of the two script & tap on the missing privileges
+- Select any of the two script & tap on the missing privileges below
 - Allow / Enable all the requested privileges / services (4 in total)
 - Tap on the ticket icon (next to the share button) & disable logging 
 
 ## Step 5
 
-- Start the script matching the layout in Settings > Handheld Settings > Controller Style
-- Tap on "Start All" & Have Fun!
+- Find the controller layout in use in Settings > Handheld Settings > Controller Style
+- In Automate, start the script matching the layout & then tap on "Start All"
+- Have Fun!
 
 # Default HomePlus Controls
 ## (Retro / Xbox)
