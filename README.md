@@ -58,6 +58,14 @@ This tiny software mod changes the function of the HOME button to an obscure, bu
 - Read / Use the instructions, documentation & examples in the development repo **[COMING SOON]**
 - Share your creations with the community! 
 
+# Uninstall HomePlus
+
+- Download "Remove_HomePlus.sh", "Remove_P1.kl" & "Remove_P2.kl" from the release page **[COMING SOON]**
+- Copy the three files to the Internal Storage of the RP2+ **[NOT THE SD CARD]**
+- Go to Settings > Handheld Setting > Scroll down to "Advanced" & Select "Run Script as Root"
+- Select "Remove_HomePlus.sh" & tap on "Run"
+- The script will remove HomePlus & restart / restore the console back to default
+
 # Credits & Thanks
 
 https://www.goretroid.com/ (Retroid Pocket 2 Plus)
