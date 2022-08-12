@@ -10,7 +10,7 @@ If anything goes (very) wrong, I made a [factory reset guide](https://github.com
 
 ## Requirements
 
-- The Three HomePlus Files **[COMING SOON]**
+- The "HomePlus - Install" Files **[COMING SOON]**
 - A Good USB to USB-C Cable
 
 # Installation Guide
