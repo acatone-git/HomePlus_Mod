@@ -23,7 +23,7 @@ If anything goes (very) wrong, I also made a [factory reset guide](https://githu
 ## Step 2
 
 - On the RP2+, go to Settings > Handheld Settings > Virtual Mouse
-- Enable it & change the shortcut keys to START / SELECT (or both) & then disable it again
+- Enable it, change the virtual mouse shortcut to START / SELECT (or both) & then disable it
 - Now Scroll down to "Advanced" & Select "Run Script as Root"
 - Select the file called "HomePlus_Install.sh" & tap on "Run"
 - The HomePlus Installation script will run & restart the console
