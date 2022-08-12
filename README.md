@@ -83,8 +83,7 @@ https://www.youtube.com/user/HorreyForthenewstep (Factory Reset Files & Boot Sou
 
 https://llamalab.com/automate/community/flows/40412 (Shell Scripting Example)
 
-https://androiderrors.com/simulating-combination-of-key-presses-from-adb-terminal/ 
-(Sendkey Sintax & Finding Valid Inputs)
+https://androiderrors.com/simulating-combination-of-key-presses-from-adb-terminal/ (Find Valid Inputs)
 
 https://unix.stackexchange.com/a/325350 (Find Permission Used on System Files)
 
