@@ -64,7 +64,7 @@ This tiny software mod changes the function of the HOME button to an obscure, bu
 - Copy the three files to the Internal Storage of the RP2+ **[NOT THE SD CARD]**
 - Go to Settings > Handheld Setting > Scroll down to "Advanced" & Select "Run Script as Root"
 - Select "Remove_HomePlus.sh" & tap on "Run"
-- The script will remove HomePlus & restart / restore the console back to default
+- The script will remove HomePlus & restore the console back to default (after the restart)
 
 # Credits & Thanks
 
