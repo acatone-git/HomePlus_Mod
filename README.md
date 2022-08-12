@@ -53,7 +53,7 @@ This tiny software mod changes the function of the HOME button to an obscure, bu
 - HOME + L2 = Settings
 - HOME + R2 = Back (Access menu on Dolphin & AetherSX2)
 
-# Create / Change Key Combinations 
+# Change Key Combinations / Create New Functions
 
 - Read / Use the instructions, documentation & examples in the development repo **[COMING SOON]**
 - Share your creations with the community! 
