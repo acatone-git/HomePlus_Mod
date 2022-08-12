@@ -55,7 +55,7 @@ This tiny software mod changes the function of the HOME button to an obscure, bu
 
 # Change Key Combinations / Create New Functions
 
-- Read / Use the instructions, documentation & examples in the development repo **[COMING SOON]**
+- Read / Use the documentation & examples in the development repo **[COMING SOON]**
 - Share your creations with the community! 
 
 # Uninstall HomePlus
