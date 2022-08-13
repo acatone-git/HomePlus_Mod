@@ -4,7 +4,7 @@ This tiny software mod changes the function of the HOME button to an obscure, bu
 
 ## Disclaimer
 
-If you decide to try this mod, please be careful, follow the video / written instructions closely & it should work right away.
+If you decide to try this mod, please be careful, follow the video / written instructions closely & it should work.
 
 If anything goes (very) wrong, I made a [factory reset guide](https://github.com/acatone-git/Factory_Reset_RP2P) to fully recover the console back to the factory default.
 
