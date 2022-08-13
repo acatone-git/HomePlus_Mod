@@ -55,7 +55,6 @@ If anything goes (very) wrong, I made a [factory reset guide](https://github.com
 - Tap on "Start All" & That's it!
 
 # Default HomePlus Controls
-## (Retro / Xbox)
 
 - HOME + A  = Center Touchscreen Tap
 - HOME + Y  = Application Switch / List
