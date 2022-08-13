@@ -73,7 +73,7 @@ If anything goes (very) wrong, I made a [factory reset guide](https://github.com
 
 # Uninstall HomePlus
 
-- Download "Remove_HomePlus.sh", "Remove_P1.kl" & "Remove_P2.kl" from the release page **[COMING SOON]**
+- Download "Remove_HomePlus.sh", "Remove_HP1.kl" & "Remove_HP2.kl" from the release page **[COMING SOON]**
 - Copy the three files to the Internal Storage of the RP2+ **[NOT THE SD CARD]**
 - Go to Settings > Handheld Setting > Scroll down to "Advanced" & Select "Run Script as Root"
 - Select "Remove_HomePlus.sh" & tap on "Run"
