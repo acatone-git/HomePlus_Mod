@@ -15,7 +15,7 @@ If anything goes (very) wrong, I made a [factory reset guide](https://github.com
 
 # Installation [Video Tutorial]
 
-- Download "HomePlus_Install.sh", "HomePlus_Scripts.bak" & "HomePlus_Layout.kl" from the [release page](https://github.com/acatone-git/HomePlus_Mod/releases)
+- Download "HomePlus_Install.sh", "HomePlus_Scripts.bak" & "HomePlus_Layout.kl" from the [release page](https://github.com/acatone-git/HomePlus_Mod/releases/tag/1_Install)
 - Copy the three files to the Internal Storage of the RP2+ **[NOT THE SD CARD]**
 - Follow the installation video tutorial: https://youtu.be/O1rt_GJVZ1E
 
@@ -23,7 +23,7 @@ If anything goes (very) wrong, I made a [factory reset guide](https://github.com
 
 ## Step 1
 
-- Download "HomePlus_Install.sh", "HomePlus_Scripts.bak" & "HomePlus_Layout.kl" from the [release page](https://github.com/acatone-git/HomePlus_Mod/releases)
+- Download "HomePlus_Install.sh", "HomePlus_Scripts.bak" & "HomePlus_Layout.kl" from the [release page](https://github.com/acatone-git/HomePlus_Mod/releases/tag/1_Install)
 - Copy the three files to the Internal Storage of the RP2+ **[NOT THE SD CARD]**
 
 ## Step 2
