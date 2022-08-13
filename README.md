@@ -13,13 +13,13 @@ If anything goes (very) wrong, I made a [factory reset guide](https://github.com
 - The "HomePlus - Install" Files **[COMING SOON]**
 - A Good USB to USB-C Cable
 
-# Installation [Video]
+# Installation [Video Tutorial]
 
 - Download "HomePlus_Install.sh", "HomePlus_Scripts.bak" & "HomePlus_Layout.kl" from the release page [COMING SOON]
 - Copy the three files mentioned above to the Internal Storage of the RP2+ [NOT THE SD CARD]
 - Follow the installation video : https://youtu.be/O1rt_GJVZ1E
 
-# Installation [Written Guide]
+# Installation [Written Tutorial]
 
 ## Step 1
 
