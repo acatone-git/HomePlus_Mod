@@ -13,7 +13,11 @@ If anything goes (very) wrong, I made a [factory reset guide](https://github.com
 - The "HomePlus - Install" Files **[COMING SOON]**
 - A Good USB to USB-C Cable
 
-# Installation Guide
+# Installation [Video]
+
+- https://youtu.be/O1rt_GJVZ1E
+
+# Installation [Written Guide]
 
 ## Step 1
 
