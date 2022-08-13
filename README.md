@@ -50,9 +50,9 @@ If anything goes (very) wrong, I made a [factory reset guide](https://github.com
 
 ## Step 5
 
-- Find the controller layout in use in Settings > Handheld Settings > Controller Style
-- In Automate, start the script matching the layout & then tap on "Start All"
-- Have Fun!
+- Find the controller layout currently in use in Settings > Handheld Settings > Controller Style
+- Return to Automate & start the script matching the layout 
+- Tap on "Start All" & That's it!
 
 # Default HomePlus Controls
 ## (Retro / Xbox)
