@@ -65,11 +65,6 @@ If anything goes (very) wrong, I made a [factory reset guide](https://github.com
 - HOME + L2 = Settings
 - HOME + R2 = Back (Access menu on Dolphin & AetherSX2)
 
-# Change Key Combinations / Create New Functions
-
-- Read / Use the documentation & examples in the development repo **[COMING SOON]**
-- Share your creations with the community! 
-
 # Uninstall HomePlus
 
 - Download "Remove_HomePlus.sh", "Remove_HP1.kl" & "Remove_HP2.kl" from the [release page](https://github.com/acatone-git/HomePlus_Mod/releases/tag/0_Remove)
@@ -77,6 +72,11 @@ If anything goes (very) wrong, I made a [factory reset guide](https://github.com
 - Go to Settings > Handheld Setting > Scroll down to "Advanced" & Select "Run Script as Root"
 - Select "Remove_HomePlus.sh" & tap on "Run"
 - The script will remove HomePlus & restore the console back to default (after a restart)
+
+# Change Key Combinations / Create New Functions
+
+- Read / Use the documentation & examples in the development repo **[COMING SOON]**
+- Share your creations with the community! 
 
 # Credits & Thanks
 
