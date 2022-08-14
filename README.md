@@ -75,7 +75,7 @@ If anything goes (very) wrong, read the [factory reset guide](https://github.com
 
 # Change Key Combinations / Create New Functions
 
-- Read / Use the documentation & examples in the development repo **[COMING SOON]**
+- Read / Use the documentation & examples in the [development repo](https://github.com/acatone-git/HomePlus_Dev)
 - Share your creations with the community! 
 
 # Credits & Thanks
