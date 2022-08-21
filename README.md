@@ -4,13 +4,24 @@ This tiny software mod changes the function of the HOME button to an obscure, bu
 
 Here's a (rough) demo of the mod in use : https://www.youtube.com/watch?v=IOeRG1G_UgY
 
-## Disclaimer
+## Default HomePlus Controls
+
+- HOME + A  = Center Touchscreen Tap
+- HOME + Y  = Application Switch / List
+- HOME + X  = Brightness Up
+- HOME + B  = Brightness Down
+- HOME + L1 = L3
+- HOME + R1 = R3
+- HOME + L2 = Settings
+- HOME + R2 = Back (Access menu on Dolphin & AetherSX2)
+
+# Disclaimer
 
 If you decide to try this mod, please be careful, follow the video / written instructions closely & it should work.
 
 If anything goes (very) wrong, read the [factory reset guide](https://github.com/acatone-git/Factory_Reset_RP2P) to fully recover the console back to the factory default.
 
-## Requirements
+# Requirements
 
 - [HomePlus Install / Remove Files](https://github.com/acatone-git/HomePlus_Mod/releases/)
 - A Good USB to USB-C Cable
@@ -56,16 +67,10 @@ If anything goes (very) wrong, read the [factory reset guide](https://github.com
 - Return to Automate & start the script matching the layout 
 - Tap on "Start All" & That's it!
 
-# Default HomePlus Controls
+# Change Key Combinations / Create New Functions
 
-- HOME + A  = Center Touchscreen Tap
-- HOME + Y  = Application Switch / List
-- HOME + X  = Brightness Up
-- HOME + B  = Brightness Down
-- HOME + L1 = L3
-- HOME + R1 = R3
-- HOME + L2 = Settings
-- HOME + R2 = Back (Access menu on Dolphin & AetherSX2)
+- Read / Use the documentation & examples in the [development repo](https://github.com/acatone-git/HomePlus_Dev)
+- Share your creations with the community! 
 
 # Uninstall HomePlus
 
@@ -74,11 +79,6 @@ If anything goes (very) wrong, read the [factory reset guide](https://github.com
 - Go to Settings > Handheld Setting > Scroll down to "Advanced" & Select "Run Script as Root"
 - Select "Remove_HomePlus.sh" & tap on "Run"
 - The script will remove HomePlus & restore the console back to default (after a restart)
-
-# Change Key Combinations / Create New Functions
-
-- Read / Use the documentation & examples in the [development repo](https://github.com/acatone-git/HomePlus_Dev)
-- Share your creations with the community! 
 
 # Credits & Thanks
 
