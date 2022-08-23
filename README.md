@@ -14,6 +14,7 @@ Here's a (rough) demo of the mod in use : https://www.youtube.com/watch?v=IOeRG1
 - HOME + R1 = R3
 - HOME + L2 = Settings
 - HOME + R2 = Back (Access menu on Dolphin & AetherSX2)
+- HOME + SELECT = Home Button
 
 # Disclaimer
 
@@ -29,7 +30,7 @@ If anything goes (very) wrong, read the [factory reset guide](https://github.com
 # Installation [Video Tutorial]
 
 - Download "HomePlus_Install.sh", "HomePlus_Scripts.bak" & "HomePlus_Layout.kl" from the [release page](https://github.com/acatone-git/HomePlus_Mod/releases/tag/1_Install)
-- Copy the three files to the Internal Storage of the RP2+ **[NOT THE SD CARD]**
+- Copy the three files to the root of the Internal Storage of the RP2+ **[NOT THE SD CARD]**
 - Follow the installation video tutorial: https://youtu.be/O1rt_GJVZ1E
 
 # Installation [Written Tutorial]
@@ -37,7 +38,7 @@ If anything goes (very) wrong, read the [factory reset guide](https://github.com
 ## Step 1
 
 - Download "HomePlus_Install.sh", "HomePlus_Scripts.bak" & "HomePlus_Layout.kl" from the [release page](https://github.com/acatone-git/HomePlus_Mod/releases/tag/1_Install)
-- Copy the three files to the Internal Storage of the RP2+ **[NOT THE SD CARD]**
+- Copy the three files to the root of the Internal Storage of the RP2+ **[NOT THE SD CARD]**
 
 ## Step 2
 
