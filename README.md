@@ -20,7 +20,7 @@ Here's a (rough) demo of the mod in use : https://www.youtube.com/watch?v=IOeRG1
 
 If you decide to try this mod, please be careful, follow the video / written instructions closely & it should work.
 
-If anything goes (very) wrong, read the [factory reset guide](https://github.com/acatone-git/Factory_Reset_RP2P) to fully recover the console back to the factory default.
+If anything goes (extremely) wrong, read the [factory reset guide](https://github.com/acatone-git/Factory_Reset_RP2P) to fully recover the console back to the factory default.
 
 # Requirements
 
