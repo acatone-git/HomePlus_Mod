@@ -30,15 +30,16 @@ If anything goes (very) wrong, read the [factory reset guide](https://github.com
 # Installation [Video Tutorial]
 
 - Download "HomePlus_Install.sh", "HomePlus_Scripts.bak" & "HomePlus_Layout.kl" from the [release page](https://github.com/acatone-git/HomePlus_Mod/releases/tag/1_Install)
-- Copy the three files to the root of the Internal Storage of the RP2+ **[NOT THE SD CARD]**
+- Copy the three files to the Internal Storage of the RP2+ **[NOT THE SD CARD / NO SEPARATE FOLDER]**
 - Follow the installation video tutorial: https://youtu.be/O1rt_GJVZ1E
+- Delete the three files from the Internal Storage, once the installation is complete they aren't needed anymore (Optional)
 
 # Installation [Written Tutorial]
 
 ## Step 1
 
 - Download "HomePlus_Install.sh", "HomePlus_Scripts.bak" & "HomePlus_Layout.kl" from the [release page](https://github.com/acatone-git/HomePlus_Mod/releases/tag/1_Install)
-- Copy the three files to the root of the Internal Storage of the RP2+ **[NOT THE SD CARD]**
+- Copy the three files to the Internal Storage of the RP2+ **[NOT THE SD CARD / NO SEPARATE FOLDER]**
 
 ## Step 2
 
@@ -67,6 +68,7 @@ If anything goes (very) wrong, read the [factory reset guide](https://github.com
 - Find the controller layout currently in use in Settings > Handheld Settings > Controller Style
 - Return to Automate & start the script matching the layout 
 - Tap on "Start All" & That's it!
+- Delete the three files from the Internal Storage, once the installation is complete they aren't needed anymore (Optional)
 
 # Change Key Combinations / Create New Functions
 
