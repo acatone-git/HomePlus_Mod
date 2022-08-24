@@ -54,7 +54,7 @@ If anything goes (very) wrong, read the [factory reset guide](https://github.com
 - After the restart, download, install & run [Automate](https://llamalab.com/automate/)
 - In automate, tap on the menu icon (Three lines icon in the top left) & then on "Settings"
 - Scroll down to the "Backup" Section & Select "Restore Backup"
-- Select the file named "HomePlus_Scripts.bak"
+- Select the file named "HomePlus_Scripts.bak" **[Now V2]**
 - Return to the main menu, there should be **two** scripts there: "HomePlus - Retro" & "HomePlus - Xbox" **[Now V2]**
 
 ## Step 4
