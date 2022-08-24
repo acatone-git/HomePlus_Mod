@@ -14,7 +14,7 @@ Here's a (rough) demo of the mod in use : https://www.youtube.com/watch?v=IOeRG1
 - HOME + R1 = R3
 - HOME + L2 = Settings
 - HOME + R2 = Back (Access menu on Dolphin & AetherSX2)
-- HOME + SELECT = Home Button
+- HOME + SELECT = Home Button **V2 Addition**
 
 # Disclaimer
 
