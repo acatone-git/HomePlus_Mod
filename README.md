@@ -55,7 +55,7 @@ If anything goes (very) wrong, read the [factory reset guide](https://github.com
 - In automate, tap on the menu icon (Three lines icon in the top left) & then on "Settings"
 - Scroll down to the "Backup" Section & Select "Restore Backup"
 - Select the file named "HomePlus_Scripts.bak"
-- Return to the main menu, there should be **two** scripts there: "HomePlus - Retro" & "HomePlus - Xbox"
+- Return to the main menu, there should be **two** scripts there: "HomePlus - Retro" & "HomePlus - Xbox" **[V2 Addition]**
 
 ## Step 4
 
