@@ -26,7 +26,7 @@ If anything goes (extremely) wrong, read the [factory reset guide](https://githu
 
 # Requirements
 
-- [HomePlus Install Files](https://github.com/acatone-git/HomePlus_Mod/releases/)
+- [HomePlus Install Files](https://github.com/acatone-git/HomePlus_Mod/releases/) **[Now V2]**
 - A Good USB to USB-C Cable
 
 # Installation [Video Tutorial]
