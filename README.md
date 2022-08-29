@@ -71,6 +71,9 @@ If anything goes (extremely) wrong, read the [factory reset guide](https://githu
 - Find the controller layout currently in use in Settings > Handheld Settings > Controller Style
 - Return to Automate & start the script matching the layout 
 - Tap on "Start All" & That's it!
+
+## Step 6 (Optional)
+
 - Select "Run on system startup" in Automate's setting to activate the HomePlus Mod on startup (Recommended)
 - Delete the three installation files from the Internal Storage (Optional)
 
