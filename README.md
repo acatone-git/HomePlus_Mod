@@ -22,6 +22,8 @@ If you decide to try this mod, please be careful, follow the video / written ins
 
 If anything goes (extremely) wrong, read the [factory reset guide](https://github.com/acatone-git/Factory_Reset_RP2P) to fully recover the console back to the factory default.
 
+**Please note that using this mod will stop the official OTAs updates, the only way to restore them is to factory reset the device**
+
 # Requirements
 
 - [HomePlus Install Files](https://github.com/acatone-git/HomePlus_Mod/releases/)
