@@ -75,6 +75,7 @@ If anything goes (extremely) wrong, read the [factory reset guide](https://githu
 ## Step 6 (Optional)
 
 - Select "Run on system startup" in Automate's setting to activate the HomePlus Mod on startup (Recommended)
+- Disable Automate's Notifications (Recommended)
 - Delete the three installation files from the Internal Storage (Optional)
 
 # Change Key Combinations / Create New Functions
