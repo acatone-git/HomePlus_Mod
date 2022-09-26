@@ -2,11 +2,11 @@
 
 This tiny software mod changes the function of the HOME button to an obscure, but still usable, modifier, combined with [Automate](https://llamalab.com/automate/) & some Shell Scripting, it unlocks the full potential of this great portable device!
 
+![aaa](https://user-images.githubusercontent.com/67967964/192362406-e3be6ff4-e4c2-42fc-83a5-38f8900a6dd7.jpg)
+
 Here's a (rough) demo of the mod in use : https://www.youtube.com/watch?v=IOeRG1G_UgY
 
 ## Default HomePlus Controls
-
-![HP_CMD](https://user-images.githubusercontent.com/67967964/192362316-b0e51ca7-1c60-4da1-a90e-be9517b3b264.jpg)
 
 - HOME + A  = Center Touchscreen Tap
 - HOME + Y  = Application Switch / List
