@@ -91,7 +91,7 @@ https://www.goretroid.com/ (Retroid Pocket 2 Plus)
 
 https://llamalab.com/automate/ (Automate)
 
-https://www.youtube.com/user/HorreyForthenewstep / https://github.com/turtleletortue (Factory Reset Files & Boot Sound Off Script)
+https://www.youtube.com/user/HorreyForthenewstep / [turtle](https://github.com/turtleletortue) (Factory Reset Files & Boot Sound Off Script)
 
 https://llamalab.com/automate/community/flows/40412 (Shell Scripting Example)
 
